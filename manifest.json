@@ -1,0 +1,8 @@
+{
+    "name": "Screenshare Free",
+    "version": "1.0.0",
+    "description": "Forces Discord to stream at any video quality and frame rate without having nitro",
+    "author": "A user",
+    "icon": "icon.png",
+    "license": "MiIT"
+}
