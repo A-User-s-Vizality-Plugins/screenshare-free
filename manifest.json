@@ -4,5 +4,5 @@
     "description": "Forces Discord to stream at any video quality and frame rate without having nitro",
     "author": "A user",
     "icon": "icon.png",
-    "license": "MiIT"
+    "license": "MIT"
 }
